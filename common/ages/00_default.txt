@@ -1,5 +1,5 @@
 age_of_discovery = {
-	start = 1400
+	start = 1854
 	
 	can_start = {
 		always = yes

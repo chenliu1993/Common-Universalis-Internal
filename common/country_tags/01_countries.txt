@@ -14,3 +14,4 @@ TXX = "countries/TXX.txt" #Starter
 WSG = "countries/Westsiberiagovernor.txt"
 ESG = "countries/Eastsiberiagovernor.txt"
 ZOR = "countries/Zoroastrian.txt"
+TPT = "countries/Taipingtianguo.txt"
